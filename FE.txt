@@ -1,0 +1,16 @@
+https://bitsofco.de/viewport-vs-percentage-units/
+https://angular.io/guide/inputs-outputs
+https://angular.io/guide/sharing-ngmodules
+https://stackoverflow.com/questions/63522675/what-is-the-difference-between-and-in-typescript-object-definitions
+https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.html#definite-assignment-assertions
+https://angular.io/guide/lazy-loading-ngmodules
+https://www.c-sharpcorner.com/article/angular-authguard/
+https://medium.com/@ryanchenkie_40935/angular-authentication-using-route-guards-bf7a4ca13ae3
+https://www.tektutorialshub.com/angular/angular-reactive-forms/
+https://blog.angular-university.io/angular-material-dialog/
+https://www.techiediaries.com/angular-material-dialogs/
+https://indepth.dev/reference/rxjs/subjects/async-subject
+https://www.veracode.com/security/xss
+https://www.cloudflare.com/en-gb/learning/bots/what-is-rate-limiting/
+https://www.c-sharpcorner.com/article/serializing-objects-in-C-Sharp/
+https://dev.to/bhagatparwinder/map-vs-mergemap-vs-switchmap-5gee#:~:text=mergeMap%20is%20a%20combination%20of,projection%20will%20generate%20multiple%20Observables.&text=We%20are%20subscribing%20to%20what,but%20it%20is%20not%20ideal.
